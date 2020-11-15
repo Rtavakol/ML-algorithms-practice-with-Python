@@ -2,7 +2,7 @@
 This repository contains simple algorithms from Coursera ML course, university of Michigan.
 
 ## Regression and Classification:
-* [Logistic Regression]()
+* [Logistic Regression](https://github.com/Rtavakol/ML-algorithms-practice-with-Python/blob/main/Logistic%20Regression%20Classifier.ipynb)
 * [Decision Tree]()
 * [Gradient Boosted Decision Trees]()
 * [Kernelized Support Vectore Machine]()
